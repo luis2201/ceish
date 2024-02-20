@@ -74,7 +74,7 @@
       <div class="row text-center" style="padding: 0;">
         <h2 class="section-heading">Pr&oacute;xima Sesi&oacute;n del Comit&eacute;</h2>
         <p class="text-muted">
-          El s&aacute;bado 17 de febrero de 2024 se llevar&aacute; a cabo una nueva sesi&oacute;n del Comit&eacute; de &Eacute;tica
+          El s&aacute;bado 16 de marzo de 2024 se llevar&aacute; a cabo una nueva sesi&oacute;n del Comit&eacute; de &Eacute;tica
           para Investigaci&oacute;n en Seres Humanos en las instalaciones del ITSUP.
         </p>
         <!--<a class="btn btn-primary btn-lg boton-slider" href="#">Conoce nuestro plan</a>-->
