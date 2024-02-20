@@ -1,0 +1,15 @@
+.vscode
+
+assets/
+css/
+dumb/
+
+function/PHPMailer
+function/configDB.php
+
+web-app/css
+web-app/fonts
+web-app/function/configDB.php
+web-app/images
+web-app/js
+web-app/modules
