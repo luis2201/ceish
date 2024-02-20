@@ -101,7 +101,7 @@
               <input type="file" id="doc2" name="doc2" class="form-control" accept=".pdf" required>
             </div>
             <div class="mb-4">
-              <label for="doc3" class="form-label">Proyecto de investigación Observacional (<a href="assets/anexos/Anexo12.docx">anexo 12</a>)</label>
+              <label for="doc3" class="form-label">Proyecto de investigación Observacional (<a href="assets/anexos/Anexo12.xlsx">anexo 12</a>)</label>
               <input type="file" id="doc3" name="doc3" class="form-control" accept=".pdf" required>
             </div>            
             <div class="mb-3">
