@@ -64,7 +64,7 @@ include 'layouts/head.php';
   </section>
   <!-- Footer-->
   <?php include 'layouts/footer.php' ?>
-  <script src="function/rconsultor-externo.js"></script>
+  <script src="function/rconsultor-externo.js?v=1.0.2"></script>
   <script type="text/javascript">
     
   </script>

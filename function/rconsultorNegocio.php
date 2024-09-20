@@ -37,10 +37,12 @@ class RconsultorNegocio extends RconsultorModelo
             move_uploaded_file($_FILES['foto']['tmp_name'], $path . $newfoto);
          }
                 
-         $procedure = 'consultorexterno_insert(?,?,?,?,?)';
+         $procedure = 'consultorexterno_insert(?,?,?,?,?,?,?)';
          $param = array(
             $nombres,
-            $especializacion,            
+            $especializacion,   
+            $email,
+            $telefono,         
             $newhojavida,
             $newcartainteres,
             $newfoto
