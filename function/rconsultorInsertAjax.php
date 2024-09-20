@@ -5,9 +5,9 @@
    if(isset($_FILES['foto'])){   	
       require_once "rconsultorNegocio.php";            
       
-      $rconsultor = new rconsultorNegocio();
+      $rconsultor = new RconsultorNegocio();
 
-      echo $rconsultor->insert_solicitud_negocio();        	
+      echo $rconsultor->insert_consultorexterno_negocio();        	
     } else{
       echo '<script>window.location.href="'.DIR.'"</script>';
     }

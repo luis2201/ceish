@@ -198,11 +198,11 @@ class SolicitudNegocio extends SolicitudModelo
       try {
          //Server settings
          //$mail->SMTPDebug = 2;
-         //$mail->SMTPDebug = SMTP::DEBUG_SERVER;                    //Enable verbose debug output
-         $mail->isSMTP();                                            //Send using SMTP
-         $mail->Host       = 'mail.itsup.edu.ec';                    //Set the SMTP server to send through
-         $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-         $mail->Username   = 'ceish@itsup.edu.ec';                //SMTP username
+         //$mail->SMTPDebug = SMTP::DEBUG_SERVER;                //Enable verbose debug output
+         $mail->isSMTP();                                        //Send using SMTP
+         $mail->Host       = 'mail.itsup.edu.ec';                //Set the SMTP server to send through
+         $mail->SMTPAuth   = true;                               //Enable SMTP authentication
+         $mail->Username   = 'ceish@itsup.edu.ec';               //SMTP username
          $mail->Password   = 'ceis123';                          //SMTP password
          $mail->SMTPSecure = 'tls';            //Enable implicit TLS encryption
          $mail->Port       = 25;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
