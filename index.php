@@ -31,7 +31,7 @@
           <div class="carousel-item">
             <div class="box-slider-green">
               <p>El Comit&eacute; de &Eacute;tica para Investigaci&oacute;n en Seres Humanos CEISH-ITSUP invita a formar parte del equipo de Consultores Externos. 
-                Registro de currículum <a href="#">AQUI</a>. La convocatoria está abierta durante todo el año.</p>
+                Registro de currículum <a href="rconsultor-externo.php">AQUI</a>. La convocatoria está abierta durante todo el año.</p>
               <!-- <a href="convocatoria-ceish.php" class="btn btn-primary btn-md boton-slider">Ver más</a> -->
             </div>
             <img src="assets/img/slider/3.png" class="d-block w-100" alt="...">

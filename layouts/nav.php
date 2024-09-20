@@ -12,10 +12,10 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-        <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
-        <li class="nav-item"><a class="nav-link" href="sobre-el-comite.php">Sobre el Comit&eacute;</a></li>
+        <li class="nav-item"><a class="nav-link active" href="index.php"  style="font-size: 0.75em;">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="sobre-el-comite.php" style="font-size: 0.75em;">Sobre el Comit&eacute;</a></li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false">Normativa</a>
+          <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="font-size: 0.75em;">Normativa</a>
           <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown1">
             <li><a class="dropdown-item" href="acuerdo.php">ACUERDO N° 00005 - 2022 MSP</a></li>
             <li><a class="dropdown-item" href="normativa-solicitudes.php">Para la Recepci&oacute;n de Solicitudes</a></li>
@@ -24,7 +24,7 @@
           </ul>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">Solicitudes</a>
+          <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="font-size: 0.75em;">Solicitudes</a>
           <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown2"> 
             <li><a class="dropdown-item" href="anonimizacion-datos.php">ANONIMIZACI&Oacute;N DE DATOS</a><li>
             
@@ -41,10 +41,11 @@
             <li><a class="dropdown-item" href="estado-solicitud.php">Estado de Solicitud</a></li>
           </ul>
         </li>
-        <li class="nav-item"><a class="nav-link" href="nuestro-equipo.php">Nuestro Equipo</a></li>
-        <li class="nav-item"><a class="nav-link" href="https://www.itsup.edu.ec/">Itsup</a></li>
-        <li class="nav-item"><a class="nav-link" href="contactenos.php">Contact&aacute;ctenos</a></li>
-        <li class="nav-item"><a class="nav-link" href="web-app/">Revisores</a></li>
+        <li class="nav-item"><a class="nav-link" href="rconsultor-externo.php" style="font-size: 0.75em;">Consultores Externos</a></li>
+        <li class="nav-item"><a class="nav-link" href="nuestro-equipo.php" style="font-size: 0.75em;">Nuestro Equipo</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://www.itsup.edu.ec/" style="font-size: 0.75em;">Itsup</a></li>
+        <li class="nav-item"><a class="nav-link" href="contactenos.php" style="font-size: 0.75em;">Contact&aacute;ctenos</a></li>
+        <li class="nav-item"><a class="nav-link" href="web-app/" style="font-size: 0.75em;">Revisores</a></li>
       </ul>
     </div>
   </div>
