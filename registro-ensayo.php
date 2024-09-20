@@ -172,7 +172,7 @@ include 'layouts/head.php';
               <input type="file" id="cartainteres" name="cartainteres" class="form-control" accept=".pdf" required>
             </div>
             <div class="mb-3">
-              <label for="comprobante" class="form-label">Comprobante de Pago (Ensayos Clínicos $4.250,00)</label>            
+              <label for="comprobante" class="form-label">Comprobante de Pago (<strong>Ensayos Clínicos $4.600,00</strong>)</label>            
               <input type="file" id="comprobante" name="comprobante" class="form-control" accept="image/image/png,image/jpeg" >            
             </div>          
             <div class="mb-3">

@@ -30,27 +30,14 @@
           </div>
           <div class="carousel-item">
             <div class="box-slider-green">
-              <p>El Comit&eacute; de &Eacute;tica para Investigaci&oacute;n en Seres Humanos CEISH-ITSUP invita a formar parte del equipo de Consultores Externos. Presentación de currículum al correo ceish@itsup.edu.ec la convocatoria está abierta durante todo el año.</p>
+              <p>El Comit&eacute; de &Eacute;tica para Investigaci&oacute;n en Seres Humanos CEISH-ITSUP invita a formar parte del equipo de Consultores Externos. 
+                Registro de currículum <a href="#">AQUI</a>. La convocatoria está abierta durante todo el año.</p>
               <!-- <a href="convocatoria-ceish.php" class="btn btn-primary btn-md boton-slider">Ver más</a> -->
             </div>
             <img src="assets/img/slider/3.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
               <div class="col-12 text-dark" style="background-color: rgba(231, 234, 232, 0.6);">
                 <h1 class="titulo-slider">CONVOCATORIA</h1>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="box-slider-blue">
-              <p>Comit&eacute; de &Eacute;tica para Investigaci&oacute;n en Seres Humanos del ITSUP es un órgano colegiado, independiente, con carácter
-                consultivo sobre las materias relacionadas con las implicaciones éticas y sociales de la
-                Biomedicina y las Ciencias de la Salud.</p>
-              <a href="#" class="btn btn-primary btn-md boton-slider">Ver más</a>
-            </div>
-            <img src="assets/img/slider/2.png" class="d-block w-100" alt="...">
-            <div class="carousel-caption d-none d-md-block">
-              <div class="col-12 text-dark" style="background-color: rgba(231, 234, 232, 0.6);">
-                <h1 class="titulo-slider">Third slide label</h1>
               </div>
             </div>
           </div>
@@ -74,7 +61,7 @@
       <div class="row text-center" style="padding: 0;">
         <h2 class="section-heading">Pr&oacute;xima Sesi&oacute;n del Comit&eacute;</h2>
         <p class="text-muted">
-          El s&aacute;bado 16 de marzo de 2024 se llevar&aacute; a cabo una nueva sesi&oacute;n del Comit&eacute; de &Eacute;tica
+          El s&aacute;bado 17 de septiembre de 2024 se llevar&aacute; a cabo una nueva sesi&oacute;n del Comit&eacute; de &Eacute;tica
           para Investigaci&oacute;n en Seres Humanos en las instalaciones del ITSUP.
         </p>
         <!--<a class="btn btn-primary btn-lg boton-slider" href="#">Conoce nuestro plan</a>-->
@@ -102,6 +89,18 @@
       </div>
     </div>
   </section>
+  <!-- Logos -->
+  <div class="row text-center text-dark" style="background-color: #ddd;">
+    <h3 class="mt-2">Acreditaciones</h3>
+  </div>
+  <section class="page-section" id="services" style="padding: 50px;">
+    <div class="container">
+      <div class="row text-center" style="padding: 0;">      
+        <!-- <a href="IORG.pdf" target="_blank"><img src="assets/img/logos/ohrp.png" class="img-fluid" alt="..." style="margin:auto;width:20%"></a> -->
+        <a href="https://ohrp.cit.nih.gov/search/IrbDtl.aspx" target="_blank"><img src="assets/img/logos/ohrp.png" class="img-fluid" alt="..." style="margin:auto;width:20%"></a>
+      </div>
+    </div>
+  </section>
   <div class="row text-center text-light" style="background-color: #ea4c19;">
     <h3 class="mt-2">Próximos eventos</h3>
   </div>
@@ -110,7 +109,7 @@
     <div class="row">
       <div class="col">
         <div class="card h-100">
-          <img src="assets/img/eventos/1.png" class="card-img-top" alt="...">
+          <img src="assets/img/eventos/1.png" class="card-img-top" alt="..." style="width: 100%;height: 300px; clip-path: inset(0px 0px 0px 0px);">
           <div class="card-body" style="text-align: justify;">
             <!-- <h5 style="color: #ea4c19;">Card title</h5> -->
             <p class="card-text">Posesión de los integrantes del CEISH-ITSUP</p>
@@ -119,7 +118,7 @@
       </div>
       <div class="col">
         <div class="card h-100">
-          <img src="assets/img/eventos/5.jpg" class="card-img-top" alt="...">
+          <img src="assets/img/eventos/5.jpg" class="card-img-top" alt="..." style="width: 100%;height: 300px; clip-path: inset(0px 0px 0px 0px);">
           <div class="card-body" style="text-align: justify;">
             <!-- <h5 class="card-title" style="color: #ea4c19;">Card title</h5> -->
             <p class="card-text">National Association of Emergency Medical Technicians. Principles of Ethics and Personal Leadership – 1st Edition Provider course
@@ -129,7 +128,7 @@
       </div>
       <div class="col">
         <div class="card h-100">
-          <img src="assets/img/eventos/3.png" class="card-img-top" alt="...">
+          <img src="assets/img/eventos/3.png" class="card-img-top" alt="..." style="width: 100%;height: 300px; clip-path: inset(0px 0px 0px 0px);">
           <div class="card-body" style="text-align: justify;">
             <!-- <h5 class="card-title" style="color: #ea4c19;">Card title</h5> -->
             <p class="card-text">Sesión de trabajo del CEISH-ITSUP.</p>
@@ -138,7 +137,7 @@
       </div>
       <div class="col">
         <div class="card h-100">
-          <img src="assets/img/eventos/4.png" class="card-img-top" alt="...">
+          <img src="assets/img/eventos/4.png" class="card-img-top" alt="..." style="width: 100%;height: 300px; clip-path: inset(0px 0px 0px 0px);">
           <div class="card-body" style="text-align: justify;">
             <!-- <h5 class="card-title" style="color: #ea4c19;">Card title</h5> -->
             <p class="card-text">Sesión del Pleno del CEISH-ITSUP de Análisis y Aprobación de informes de revisión de Protocolos de Investigación</p>

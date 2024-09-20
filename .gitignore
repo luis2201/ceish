@@ -7,10 +7,12 @@ dumb/
 
 function/PHPMailer
 function/configDB.php
+function/mainModel.php
 
 web-app/css
 web-app/fonts
 web-app/function/configDB.php
+web-app/function/mainModel.php
 web-app/images
 web-app/js
 web-app/modules

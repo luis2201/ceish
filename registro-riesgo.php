@@ -126,7 +126,7 @@
             <input type="file" id="declaracion" name="declaracion" class="form-control d-none" accept=".pdf">
 
             <div class="mb-3">
-              <label for="comprobante" class="form-label">Comprobante de Pago ($720.00) Universidades con convenio 50% de descuento de dos salarios básicos</label>           
+              <label for="comprobante" class="form-label">Comprobante de Pago (<strong>$720.00</strong>) Universidades con convenio 50% de descuento de dos salarios básicos</label>           
               <input type="file" id="comprobante" name="comprobante" class="form-control" accept="image/image/png,image/jpeg" required>          
               <input type="file" id="protocolo" name="protocolo" class="form-control d-none" accept="image/image/png,image/jpeg">          
               <input type="file" id="autorizacion" name="autorizacion" class="form-control d-none" accept="image/image/png,image/jpeg">          
