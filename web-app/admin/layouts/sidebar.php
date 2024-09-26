@@ -29,6 +29,7 @@
         <a href="#revisor" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-user green_color"></i> <span>Revisor</span></a>
         <ul class="collapse list-unstyled" id="revisor">
           <li><a href="revisor.php">> <span></span>Registrar revisor</a></li>
+          <li><a href="consultor-externo.php">> <span></span>Consultores Externos</a></li>
         </ul>
       </li>
       <li>

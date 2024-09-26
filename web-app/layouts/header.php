@@ -4,10 +4,12 @@
   require_once '../function/solicitudNegocio.php';
   require_once '../function/usuarioNegocio.php';
   require_once '../function/revisorNegocio.php';
+  require_once '../function/consultorNegocio.php';
 
   $solicitud = new SolicitudNegocio();
   $usuario = new UsuarioNegocio();
   $revisor = new RevisorNegocio(); 
+  $consultor = new ConsultorNegocio(); 
 ?>
 <!DOCTYPE html>
 <html lang="es">

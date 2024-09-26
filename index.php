@@ -21,7 +21,7 @@
                 Biomedicina y las Ciencias de la Salud.</p>
               <!-- <a href="#" class="btn btn-primary btn-md boton-sl ider">Ver más</a> -->
             </div>
-            <img src="assets/img/slider/1.png" class="d-block w-100" alt="...">
+            <img src="assets/img/slider/4.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
               <div class="col-12 text-dark" style="background-color: rgba(231, 234, 232, 0.6);">
                 <h1 class="titulo-slider" style="font-size:2em!Important">COMIT&Eacute; DE &Eacute;TICA PARA INVESTIGACI&Oacute;N EN SERES HUMANOS DEL ITSUP 2022</h1>
@@ -61,7 +61,7 @@
       <div class="row text-center" style="padding: 0;">
         <h2 class="section-heading">Pr&oacute;xima Sesi&oacute;n del Comit&eacute;</h2>
         <p class="text-muted">
-          El s&aacute;bado 17 de septiembre de 2024 se llevar&aacute; a cabo una nueva sesi&oacute;n del Comit&eacute; de &Eacute;tica
+          El s&aacute;bado 19 de octubre de 2024 se llevar&aacute; a cabo una nueva sesi&oacute;n del Comit&eacute; de &Eacute;tica
           para Investigaci&oacute;n en Seres Humanos en las instalaciones del ITSUP.
         </p>
         <!--<a class="btn btn-primary btn-lg boton-slider" href="#">Conoce nuestro plan</a>-->

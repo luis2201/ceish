@@ -48,7 +48,7 @@ include 'layouts/head.php';
               <input type="file" id="hojavida" name="hojavida" class="form-control" accept=".pdf" required>
             </div>
             <div class="mb-3">
-              <label for="cartainteres" class="form-label">Carta de Conflicto de Intereses (<a href="assets/anexos/Anexo39.docx">Anexo 39</a>)</label>
+              <label for="cartainteres" class="form-label">Carta de Conflicto de Intereses (<a href="assets/anexos/Anexo39-B.docx">Anexo 39</a>)</label>
               <input type="file" id="cartainteres" name="cartainteres" class="form-control" accept=".pdf" required>
             </div>
             <div class="mb-3">

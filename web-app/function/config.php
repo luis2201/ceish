@@ -1,6 +1,6 @@
 <?php 
 	
-	define('DIR', 'https://ceish.itsup.edu.ec/web-app/');
+	define('DIR', 'https://ceish2.itsup.edu.ec/web-app/');
 	define('CSS', 'css/');
 	define('JS', 'js/');
 	define('FUNCT', 'function/');
