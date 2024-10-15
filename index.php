@@ -21,7 +21,7 @@
                 Biomedicina y las Ciencias de la Salud.</p>
               <!-- <a href="#" class="btn btn-primary btn-md boton-sl ider">Ver más</a> -->
             </div>
-            <img src="assets/img/slider/4.png" class="d-block w-100" alt="...">
+            <img src="assets/img/slider/1.png" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
               <div class="col-12 text-dark" style="background-color: rgba(231, 234, 232, 0.6);">
                 <h1 class="titulo-slider" style="font-size:2em!Important">COMIT&Eacute; DE &Eacute;TICA PARA INVESTIGACI&Oacute;N EN SERES HUMANOS DEL ITSUP 2022</h1>
@@ -89,7 +89,23 @@
       </div>
     </div>
   </section>
-  <!-- Logos -->
+  <!-- Convenios -->
+  <div class="row text-center text-light" style="background-color: #ea4c19;">
+    <h3 class="mt-2">Convenios</h3>
+  </div>
+  <section class="page-section" id="services" style="padding: 50px;">
+    <div class="container">
+      <div class="row text-center" style="padding: 0;">              
+        <div class="col">        
+          <a href="https://uees.edu.ec/" target="_blank"><img src="assets/img/logos/uess.png" class="img-fluid" alt="..." style="margin:auto;width:40%"></a>
+        </div>
+        <div class="col">        
+          <a href="http://unesum.edu.ec/" target="_blank"><img src="assets/img/logos/unesum.jpg" class="img-fluid" alt="..." style="margin:auto;width:20%"></a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Acreditaciones -->
   <div class="row text-center text-dark" style="background-color: #ddd;">
     <h3 class="mt-2">Acreditaciones</h3>
   </div>
@@ -101,10 +117,10 @@
       </div>
     </div>
   </section>
+  <!-- Próximos eventos -->
   <div class="row text-center text-light" style="background-color: #ea4c19;">
     <h3 class="mt-2">Próximos eventos</h3>
   </div>
-  <!-- Próximos eventos -->
   <section class="page-section" id="about" style="padding: 50px;">
     <div class="row">
       <div class="col">
