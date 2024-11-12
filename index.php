@@ -96,11 +96,14 @@
   <section class="page-section" id="services" style="padding: 50px;">
     <div class="container">
       <div class="row text-center" style="padding: 0;">              
-        <div class="col">        
-          <a href="https://uees.edu.ec/" target="_blank"><img src="assets/img/logos/uess.png" class="img-fluid" alt="..." style="margin:auto;width:40%"></a>
+        <div class="col-2" style="display: flex;justify-content: center;align-items: center;margin:auto;">        
+          <a href="https://uees.edu.ec/" target="_blank"><img src="assets/img/logos/uess.png" class="img-fluid" alt="..." style="margin:auto;width:100%;"></a>
         </div>
-        <div class="col">        
-          <a href="http://unesum.edu.ec/" target="_blank"><img src="assets/img/logos/unesum.jpg" class="img-fluid" alt="..." style="margin:auto;width:20%"></a>
+        <div class="col-2" style="display: flex;justify-content: center;align-items: center;margin:auto;">          
+          <a href="http://unesum.edu.ec/" target="_blank"><img src="assets/img/logos/unesum.jpg" class="img-fluid" alt="..." style="margin:auto;width:100%"></a>
+        </div>
+        <div class="col-2" style="display: flex;justify-content: center;align-items: center;margin:auto;">        
+          <a href="http://unemi.edu.ec/" target="_blank"><img src="assets/img/logos/unemi.png" class="img-fluid" alt="..." style="margin:auto;width:100%"></a>
         </div>
       </div>
     </div>

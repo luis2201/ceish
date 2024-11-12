@@ -30,7 +30,7 @@
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="assets/img/externo/02.jpg" data-toggle="modal" data-target="#modal1" alt="..." />
             <h4>Dr. Roberth Patricio Zambrano Ubillus</h4>
-            <p class="text-muted">Traumatología y <br>PhD en Ciencias Medicas<br>
+            <p class="text-muted">Traumatología y <br>Ph.D. Ciencias Biomédicas<br>
             roberthzamubi@hotmail.com</p>      
           </div>
         </div>
