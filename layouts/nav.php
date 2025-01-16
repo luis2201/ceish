@@ -41,7 +41,13 @@
             <li><a class="dropdown-item" href="estado-solicitud.php">Estado de Solicitud</a></li>
           </ul>
         </li>
-        <li class="nav-item"><a class="nav-link" href="rconsultor-externo.php" style="font-size: 0.75em;">Consultores Externos</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown3" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="font-size: 0.75em;">Consultores Externos</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown3"> 
+            <li><a class="dropdown-item" href="rconsultor-externo.php">Registro de Consultores Externos</a><li>
+            <li><a class="dropdown-item" href="consultor-externo.php">Equipo de Consultores Externos</a></li>
+          </ul>
+        </li>
         <li class="nav-item"><a class="nav-link" href="nuestro-equipo.php" style="font-size: 0.75em;">Nuestro Equipo</a></li>
         <li class="nav-item"><a class="nav-link" href="https://www.itsup.edu.ec/" style="font-size: 0.75em;">Itsup</a></li>
         <li class="nav-item"><a class="nav-link" href="contactenos.php" style="font-size: 0.75em;">Contact&aacute;ctenos</a></li>

@@ -61,7 +61,7 @@
       <div class="row text-center" style="padding: 0;">
         <h2 class="section-heading">Pr&oacute;xima Sesi&oacute;n del Comit&eacute;</h2>
         <p class="text-muted">
-          El s&aacute;bado 17 de septiembre de 2024 se llevar&aacute; a cabo una nueva sesi&oacute;n del Comit&eacute; de &Eacute;tica
+          El s&aacute;bado 18 de enero de 2025 se llevar&aacute; a cabo una nueva sesi&oacute;n del Comit&eacute; de &Eacute;tica
           para Investigaci&oacute;n en Seres Humanos en las instalaciones del ITSUP.
         </p>
         <!--<a class="btn btn-primary btn-lg boton-slider" href="#">Conoce nuestro plan</a>-->
@@ -89,7 +89,26 @@
       </div>
     </div>
   </section>
-  <!-- Logos -->
+  <!-- Convenios -->
+  <div class="row text-center text-light" style="background-color: #ea4c19;">
+    <h3 class="mt-2">Convenios</h3>
+  </div>
+  <section class="page-section" id="services" style="padding: 50px;">
+    <div class="container">
+      <div class="row text-center" style="padding: 0;">              
+        <div class="col-2" style="display: flex;justify-content: center;align-items: center;margin:auto;">        
+          <a href="https://uees.edu.ec/" target="_blank"><img src="assets/img/logos/uess.png" class="img-fluid" alt="..." style="margin:auto;width:100%;"></a>
+        </div>
+        <div class="col-2" style="display: flex;justify-content: center;align-items: center;margin:auto;">          
+          <a href="http://unesum.edu.ec/" target="_blank"><img src="assets/img/logos/unesum.jpg" class="img-fluid" alt="..." style="margin:auto;width:100%"></a>
+        </div>
+        <div class="col-2" style="display: flex;justify-content: center;align-items: center;margin:auto;">        
+          <a href="http://unemi.edu.ec/" target="_blank"><img src="assets/img/logos/unemi.png" class="img-fluid" alt="..." style="margin:auto;width:100%"></a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Acreditaciones -->
   <div class="row text-center text-dark" style="background-color: #ddd;">
     <h3 class="mt-2">Acreditaciones</h3>
   </div>
@@ -101,10 +120,10 @@
       </div>
     </div>
   </section>
+  <!-- Próximos eventos -->
   <div class="row text-center text-light" style="background-color: #ea4c19;">
     <h3 class="mt-2">Próximos eventos</h3>
   </div>
-  <!-- Próximos eventos -->
   <section class="page-section" id="about" style="padding: 50px;">
     <div class="row">
       <div class="col">
@@ -157,10 +176,11 @@
       <div class="row">
         <div class="col-lg-3">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpeg" data-toggle="modal" data-target="#modal3" alt="..." />
+            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpeg" data-toggle="modal" data-target="#modal3" alt="..." />            
             <h4>Dra. Mabel<br>Sánchez Rodr&iacute;guez</h4>
+            <br>
             <p class="text-muted">Presidente<br>
-            Experiencia en Investigaci&oacute;n <br>
+              Miembro con conocimiento <br>en Bio&eacute;tica<br>
             <strong>mabel.ceish@itsup.edu.ec</strong></p>         
           </div>
         </div>
@@ -168,9 +188,9 @@
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="assets/img/team/1.jpeg" data-toggle="modal" data-target="#modal1" alt="..." />
             <h4>Dr. Roberth<br>
-              Zambrano Santos Ph.D</h4>
+              Zambrano Santos Ph.D</h4>              
             <p class="text-muted">Secretario<br>
-            Experiencia en Bio&eacute;tica<br>
+              Profesional con experiencia en metodolog&iacute;a de la Investigaci&oacute;n<br>
             <strong>rzambranosantos@itsup.edu.ec</strong></p>      
           </div>
         </div>
@@ -179,6 +199,7 @@
             <img class="mx-auto rounded-circle" src="assets/img/team/2.jpeg" data-toggle="modal" data-target="#modal2" alt="..." />
             <h4>Dr. Milton<br>Espinoza Lucas</h4>
             <p></p>
+            <br>
             <p class="text-muted">Profesional de la Salud<br>
             <strong>mespinoza_ceish@itsup.edu</strong></p>            
           </div>
@@ -198,7 +219,8 @@
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="assets/img/team/5.jpeg" data-toggle="modal" data-target="#modal5" alt="..." />
             <h4>Dra. Verónica<br>Franco Sol&oacute;rzano</h4>
-            <p class="text-muted">Profesional de la Salud<br>
+            <br>
+            <p class="text-muted">Profesional con experiencia <br>en metología de la Investigación<br>
             <strong>vfranco_ceish@itsup.edu.ec</strong></p>  
           </div>
         </div>
@@ -206,6 +228,7 @@
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="assets/img/team/6.jpeg" data-toggle="modal" data-target="#modal6" alt="..." />
             <h4>Dra. Yelennis<br>Galardy Dom&iacute;nguez</h4>
+            <br>
             <p class="text-muted">Profesional de la Salud<br>
             <strong>ygalardy@itsup.edu.ec</strong></p>  
           </div>
@@ -214,7 +237,8 @@
           <div class="team-member">
             <img class="mx-auto rounded-circle" src="assets/img/team/7.jpeg" data-toggle="modal" data-target="#modal7" alt="..." />
             <h4>Lic. P. Jorge Luis
-              <br>Mero</h4>
+            <br>Mero</h4>
+            <br>
             <p class="text-muted">Representante de la Sociedad Civil<br>
             <strong>jmero_ceish@itusp.edu.ec</strong></p>
           </div>
@@ -235,7 +259,7 @@
             <img class="mx-auto rounded-circle" src="assets/img/team/9.jpg" data-toggle="modal" data-target="#modal9" alt="..." />
             <h4>Dr. Marcelo<br>
             Armijo Briones</h4>
-            <p class="text-muted">Experiencia en Investigaci&oacute;n<br>
+            <p class="text-muted">Profesional con experiencia en <br>metodología de la Investigaci&oacute;n<br>
             <strong>marmijo_ceish@itsup.edu.ec</strong></p>
           </div>
         </div>

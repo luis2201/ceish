@@ -21,9 +21,9 @@ class RconsultorNegocio extends RconsultorModelo
       $extensioncartainteres    = pathinfo($cartainteres, PATHINFO_EXTENSION);
       $extensionfoto            = pathinfo($foto, PATHINFO_EXTENSION);
 
-      $newhojavida         = $newnamedoc . '.' . $extensionhojavida;
-      $newcartainteres     = $newnamedoc . '.' . $extensioncartainteres;
-      $newfoto             = $newnamedoc . '.' . $extensionfoto;      
+      $newhojavida         = $newnamedoc . '-HV.' . $extensionhojavida;
+      $newcartainteres     = $newnamedoc . '-CI.' . $extensioncartainteres;
+      $newfoto             = $newnamedoc . '-F.' . $extensionfoto;      
 
       // try {
        //throw exception if can't move the file         

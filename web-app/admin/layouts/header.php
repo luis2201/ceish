@@ -5,11 +5,14 @@
   require_once '../function/usuarioNegocio.php';
   require_once '../function/revisorNegocio.php';
   require_once '../function/mensajeNegocio.php';
+  require_once '../function/consultorNegocio.php';
 
   $solicitud = new SolicitudNegocio();
   $usuario = new UsuarioNegocio();
   $revisor = new RevisorNegocio();
   $mensaje = new MensajeNegocio();
+  $consultor = new ConsultorNegocio();
+  
 ?>
 <!DOCTYPE html>
 <html lang="es">

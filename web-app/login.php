@@ -1,3 +1,4 @@
+<?php require 'function/config.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
    <head>
@@ -13,23 +14,23 @@
       <meta name="description" content="">
       <meta name="author" content="">
       <!-- site icon -->
-      <link rel="icon" href="images/fevicon.png" type="image/png" />
+      <link rel="icon" href="<?php echo DIR; ?>images/favicon.png" type="image/png" />
       <!-- bootstrap css -->
-      <link rel="stylesheet" href="css/bootstrap.min.css" />
+      <link rel="stylesheet" href="<?php echo DIR; ?>css/bootstrap.min.css" />
       <!-- site css -->
-      <link rel="stylesheet" href="css/style.css" />
+      <link rel="stylesheet" href="<?php echo DIR; ?>css/style.css" />
       <!-- responsive css -->
-      <link rel="stylesheet" href="css/responsive.css" />
+      <link rel="stylesheet" href="<?php echo DIR; ?>css/responsive.css" />
       <!-- color css -->
-      <link rel="stylesheet" href="css/colors.css" />
+      <link rel="stylesheet" href="<?php echo DIR; ?>css/colors.css" />
       <!-- select bootstrap -->
-      <link rel="stylesheet" href="css/bootstrap-select.css" />
+      <link rel="stylesheet" href="<?php echo DIR; ?>css/bootstrap-select.css" />
       <!-- scrollbar css -->
-      <link rel="stylesheet" href="css/perfect-scrollbar.css" />
+      <link rel="stylesheet" href="<?php echo DIR; ?>css/perfect-scrollbar.css" />
       <!-- custom css -->
-      <link rel="stylesheet" href="css/custom.css" />
+      <link rel="stylesheet" href="<?php echo DIR; ?>css/custom.css" />
       <!-- calendar file css -->
-      <link rel="stylesheet" href="js/semantic.min.css" />
+      <link rel="stylesheet" href="<?php echo DIR; ?>js/semantic.min.css" />
       <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -48,7 +49,7 @@
                      </div>
                   </div>
                   <div class="login_form">
-                     <form class="frmAction" action="function/usuarioLoginAjax.php" method="POST" data-form="login" enctype="multipart/form-data" autocomplete="off">
+                     <form class="frmAction" action="<?php echo DIR; ?>function/usuarioLoginAjax.php" method="POST" data-form="login" enctype="multipart/form-data" autocomplete="off">
                         <div class="field">
                            <label for="usuario" class="label_field">Usuario</label>
                            <input type="text" id="usuario" name="usuario" required />

@@ -1,6 +1,6 @@
 <?php
 
-require_once 'mensajeModelo.php';
+require_once 'mainModel.php';
 
 class MensajeModelo extends mainModel
 {
